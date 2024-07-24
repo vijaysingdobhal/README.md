@@ -1,4 +1,4 @@
-[Profile Banner](https://www.freepik.com/premium-ai-image/desktop-computer-with-programming-code-sticky-notes-screen_198001973.htm#fromView=search&page=1&position=24&uuid=a860761e-198d-48c9-9391-dbe8b58a4816)
+[Profile Banner](![image](https://github.com/user-attachments/assets/f1adeae2-1406-478b-9bdf-932f70d10392)
 
 # Hi, I'm Vijaysing Dobhal 👋
 
