@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1adeae2-1406-478b-9bdf-932f70d10392/1000)
+![image](https://github.com/user-attachments/assets/f1adeae2-1406-478b-9bdf-932f70d10392)
 
 # Hi, I'm Vijaysing Dobhal 👋
 
