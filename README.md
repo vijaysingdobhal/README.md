@@ -40,6 +40,21 @@ _Jan 2019 — Dec 2020_
 - Utilized Python and Pandas for data collection, cleaning, and transformation.
 - Applied Power Query for further data transformation.
 
+### [Sales Prediction Project](https://github.com/vijaysingdobhal/sales-prediction)
+- Built a model to predict future sales using historical data.
+- Achieved a high R-squared score and low mean squared error.
+- Used Python libraries such as Scikit-learn, Pandas, and Matplotlib for analysis and visualization.
+
+### [Credit Card Fraud Prediction Project](https://github.com/vijaysingdobhal/credit-card-fraud-prediction)
+- Developed a classification model to detect fraudulent credit card transactions.
+- Utilized machine learning algorithms including Random Forest and XGBoost.
+- Achieved high accuracy and comprehensive evaluation using precision, recall, and confusion matrix.
+
+### [Titanic Survival Prediction Project](https://github.com/vijaysingdobhal/titanic-survival-prediction)
+- Analyzed and preprocessed data to predict passenger survival on the Titanic.
+- Implemented logistic regression and evaluated model performance.
+- Explored feature engineering to enhance model prediction accuracy.
+
 ## Education
 
 - **Master of Computer Application (MCA),** Sinhgad Institute, Vadgaon Budruk, Pune (2023 — Present)
@@ -49,6 +64,8 @@ _Jan 2019 — Dec 2020_
 
 - Full Stack Data Science, Naresh I Technologies, HYD
 - Python For Data Science, EDX
+- R Programming
+- prompt engineering 
 - Database Management Essentials, Coursera
 - Technical Support Fundamentals, Google
 
