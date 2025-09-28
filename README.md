@@ -5,73 +5,84 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijaysing%20Dobhal-blue)](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/)
 [![GitHub](https://img.shields.io/badge/GitHub-vijaysingdobhal-lightgrey)](https://github.com/vijaysingdobhal)
 
-## Professional Summary
+# 👋 Hi, I'm Vijaysing Dobhal  
 
-I am a Data Analyst with a strong background in Python, SQL, and data visualization tools like Power BI and Excel. I am proficient in data cleaning, statistical analysis, and creating insightful visualizations. My strong analytical and problem-solving abilities drive my passion for data-driven decision-making.
+💻 **Flutter Developer** | 📱 Mobile App Specialist | ☁️ Firebase Enthusiast  
 
-## Technical Skills
+📍 Pune, Maharashtra, India  
+📧 **Email:** vijaydobhal12@gmail.com  
+🌐 **Portfolio:** [vijayportfolio17.netlify.app](https://vijayportfolio17.netlify.app/)  
 
-- **Languages:** Python, R, C, HTML5, CSS3, Java
-- **Database:** SQL, MongoDB
-- **Data Analysis Tools:** Power BI, Excel, SQL, Google Analytics
-- **Statistical Methods:** Regression Analysis, Hypothesis Testing, Clustering
-- **Soft Skills:** Analytical Thinking, Attention to Detail, Communication, Teamwork, Problem-Solving
+---
 
-## Experience
+## 🚀 About Me  
+I’m a **Flutter Developer** with 2 years of experience building **cross-platform Android & iOS apps**.  
+I enjoy creating **scalable, user-friendly, and high-performance applications** using Flutter, Dart, and Firebase.  
 
-### Network Engineer
-**Unik IT Pvt Ltd, Pune**  
-_Jan 2019 — Dec 2020_
+---
 
-- Supervised the design, implementation, and maintenance of network infrastructure.
-- Ensured network reliability, performance, and security.
-- Led troubleshooting and resolution of network issues.
-- Demonstrated strong leadership abilities and management skills.
+## 🛠️ Tech Stack  
 
-## Projects
+- **Languages:** Dart, Java, C++  
+- **Frameworks & Libraries:** Flutter, Firebase, GetX, Provider, Riverpod  
+- **Databases:** Firestore, MySQL, Supabase, SQLite  
+- **Tools:** Android Studio, VS Code, Postman, Figma, Xcode  
+- **Version Control:** Git, GitHub  
+- **Others:** REST APIs, Payment Gateways (Razorpay, Apple Pay), Google Maps API, Push Notifications, CI/CD  
 
-### [Bank Loan Risk Analysis (EDA)](https://github.com/vijaysingdobhal/bank-loan-risk-analysis)
-- Preprocessed and cleaned a large bank loan dataset to ensure data quality.
-- Conducted univariate, bivariate, and multivariate analyses to identify risk factors.
-- Created histograms, box plots, and heatmaps using Python libraries (Pandas, Seaborn, Matplotlib).
+---
 
-### [T20 Cricket World Cup Data Analysis](https://github.com/vijaysingdobhal/t20-cricket-world-cup-analysis)
-- Conducted data analysis on T20 Cricket World Cup performance data.
-- Utilized Python and Pandas for data collection, cleaning, and transformation.
-- Applied Power Query for further data transformation.
+## 📱 Featured Projects  
 
-### [Sales Prediction Project](https://github.com/vijaysingdobhal/sales-prediction)
-- Built a model to predict future sales using historical data.
-- Achieved a high R-squared score and low mean squared error.
-- Used Python libraries such as Scikit-learn, Pandas, and Matplotlib for analysis and visualization.
+### 🔹 Online Munim – ERP App  
+📱 [Play Store](https://play.google.com/store/apps/details?id=com.omunim.online_munim_native) | 🌐 [Website](https://omunim.com/jewellery-mobile-app)  
+ERP billing solution with **multi-branch support, barcode/RFID inventory, GST reports, invoices**.  
+Integrated **Razorpay & Apple Pay** for secure payments.  
 
-### [Credit Card Fraud Prediction Project](https://github.com/vijaysingdobhal/credit-card-fraud-prediction)
-- Developed a classification model to detect fraudulent credit card transactions.
-- Utilized machine learning algorithms including Random Forest and XGBoost.
-- Achieved high accuracy and comprehensive evaluation using precision, recall, and confusion matrix.
+---
 
-### [Titanic Survival Prediction Project](https://github.com/vijaysingdobhal/titanic-survival-prediction)
-- Analyzed and preprocessed data to predict passenger survival on the Titanic.
-- Implemented logistic regression and evaluated model performance.
-- Explored feature engineering to enhance model prediction accuracy.
+### 🔹 Jewellers App – eCommerce & Billing  
+📱 [Play Store](https://play.google.com/store/apps/details?id=com.omunim.jewellersapp) | 🌐 [Website](https://omunim.com/jewellery-mobile-app)  
+Customer app with **gold/silver rates, EMIs, order tracking, and stock management**.  
+Built with **Flutter, GetX, REST APIs** + payment gateways.  
 
-## Education
+---
 
-- **Master of Computer Application (MCA),** Sinhgad Institute, Vadgaon Budruk, Pune (2023 — Present)
-- **Bachelor of Computer Application (BCA),** Vidya Pratistan Science and Commerce College (2020 — 2023)
+### 🔹 Linkhub  
+Flutter app for managing links with **folders, colors, auto-sorting**.  
+Integrated **Firebase Auth & Firestore** for real-time sync.  
+🔗 [GitHub Repo](https://github.com/vijaysingdobhal) *(Add repo link here)*  
 
-## Certifications
+---
 
-- Full Stack Data Science, Naresh I Technologies, HYD
-- Python For Data Science, EDX
-- R Programming
-- prompt engineering 
-- Database Management Essentials, Coursera
-- Technical Support Fundamentals, Google
+### 🔹 Clone App  
+Photocopying app connecting users to **Xerox shops via QR codes**.  
+Features: **file upload, printing preferences, Firebase authentication**.  
+🔗 [GitHub Repo](https://github.com/vijaysingdobhal) *(Add repo link here)*  
 
-## Declaration
+---
 
-I hereby declare that the information provided above is true and correct to the best of my knowledge and belief.
+## 📜 Certifications  
+- C Programming – Naresh I Technologies  
+- Database Management Essentials – Coursera  
+- Prompt Engineering – AWS  
+- Google Flutter Development – Udemy/Coursera  
+- Firebase for Flutter Developers  
 
-_Date:_  
-_Signature:_
+---
+
+## 💡 Strengths  
+✔️ Problem-solving & debugging  
+✔️ End-to-end app delivery (Concept → Deployment → Support)  
+✔️ Scalable architecture design  
+✔️ Client communication  
+✔️ Proactive learner  
+
+---
+
+## 📫 Let’s Connect!  
+🌐 [Portfolio](https://vijayportfolio17.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/) | 🖥️ [GitHub](https://github.com/vijaysingdobhal)  
+
+---
+
+✨ *Thanks for visiting my GitHub profile! Feel free to explore my projects and drop a ⭐ if you like them.*  
